@@ -1,4 +1,4 @@
-# Exercise 3: Logistic Regression
+# Exercise: Logistic Regression
 
 This project contains a Jupyter notebook for a machine learning exercise on logistic regression.
 
